@@ -76,7 +76,7 @@ movedata MOVE_COMET_PUNCH, "Comet Punch"
     battleeffect MOVE_EFFECT_MULTI_HIT
     pss SPLIT_PHYSICAL
     basepower 18
-    type TYPE_NORMAL
+    type TYPE_FAIRY
     accuracy 85
     pp 15
     effectchance 0
